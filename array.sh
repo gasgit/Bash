@@ -10,7 +10,6 @@ do
   a=`expr $a + 1`
 done
 
-
 echo "Second Index: ${NUMBERS[1]}"
 
 echo "All index: ${NUMBERS[*]}"
