@@ -30,7 +30,7 @@ echo "${url/#*:/https:}"
 # repalce .jpg with .png
 echo "${url/%.jpg/.png}"
 
-# replace selected lower to upper
+# replace all t to T
 echo "${url^^[t,w,g]}"
 
 
