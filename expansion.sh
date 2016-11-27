@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 name=glen height=1.70
 
