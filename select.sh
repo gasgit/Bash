@@ -1,6 +1,5 @@
 #!/bin/sh
 
-
 select SHOW in RTE1 NETWORK2 TG4 TV3 BBC ITV CHANNEL4 none
 do
   case $SHOW in

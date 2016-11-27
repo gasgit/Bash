@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 OPTIONS="hello wait quit"
 select opt in $OPTIONS;
 do
@@ -18,5 +17,3 @@ do
         echo "Bad Option, options are,  " $OPTIONS
     fi
 done
-
-
