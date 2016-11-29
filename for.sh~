@@ -23,7 +23,7 @@ do
 done
 
 
-k=1
+k=i
 
 for file in /home/glen/Documents/*.pdf
 do 
